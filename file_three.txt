@@ -1,1 +1,1 @@
-sample file 3
+Practicing Git Commands
